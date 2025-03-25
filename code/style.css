@@ -151,7 +151,7 @@ main {
   grid-template-rows: 10% 1fr;
   width: 100%;
   padding-top: 50px;
-  padding-bottom: 50px;
+  padding-bottom: 2rem;
 }
 
 .big-news {
@@ -214,6 +214,7 @@ article h2,
 article h3 {
   grid-column: 1 / -1;
   grid-row: 2 / 3;
+  font-size: 1em;
 }
 
 
@@ -221,6 +222,7 @@ article h3 {
 @media (min-width: 667px) and (max-width: 1024px) {
   main {
     padding-top: 100px;
+    padding-bottom: 1rem;
   }
 
   article h2 {
@@ -249,6 +251,7 @@ article h3 {
 
   main {
     padding-top: 100px;
+    padding-bottom: 1rem;
     grid-template-rows: 25% 1fr;
   }
 
