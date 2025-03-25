@@ -17,4 +17,4 @@ The assignment was to build a news site focusing on using responsive design and 
 - I have learned a lot during this project and I have a feeling that if I had had this knowledge at the beginning of the project I would have been able to create a responsive layout with less code and not as many specific styling for different devices. If I had more time, I would try to create a similar layout with less code.
 
 ## View it live
-technigo-project-news-site-baksidan.netlify.app
+https://technigo-project-news-site-baksidan.netlify.app/
